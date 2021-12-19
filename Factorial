@@ -10,3 +10,4 @@ public class FactorialOfNumber {
         System.out.println("Factorial of" +num+ "is:" +fact);
     }
 }
+    
